@@ -9,7 +9,7 @@
     "axios": "^0.25.0",
     "bootstrap": "^5.1.3",
     "mqtt": "^4.3.7",
-    "react": "^10.0.0",                 
+    "react": "^18.0.0",                 
     "react-bootstrap": "^2.1.2",
     "react-dom": "^18.0.0",            
     "react-icons": "^4.3.1",
